@@ -14,7 +14,7 @@ st.set_page_config(
 # Title and Description
 st.title("🗣️ Arabic Text-to-Speech (TTS)")
 st.markdown("""
-This app generates Arabic speech using ** TTS** models.
+This app generates Arabic speech using **TTS** models.
 Choose between a **Male** and **Female** voice below.
 """)
 
