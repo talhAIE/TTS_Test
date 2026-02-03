@@ -1,0 +1,3 @@
+streamlit
+piper-tts
+# onnxruntime-gpu # Uncomment if deploying to a GPU-enabled environment and you want explicit GPU support
